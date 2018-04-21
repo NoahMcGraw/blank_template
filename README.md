@@ -1,2 +1,2 @@
-# app
-Hey, it's free real estate!
+# Angular Project Template
+A template for future Angular projects.
