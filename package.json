@@ -1,0 +1,27 @@
+{
+  "name": "blank_template",
+  "version": "1.0.0",
+  "description": "A template for future Angular projects.",
+  "main": "webpack.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.16.1",
+    "webpack-cli": "^3.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=production",
+    "dev": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahMcGraw/blank_template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoahMcGraw/blank_template/issues"
+  },
+  "homepage": "https://github.com/NoahMcGraw/blank_template#readme"
+}
